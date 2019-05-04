@@ -39,10 +39,11 @@ Simply install to your project:
 sampctl package install infin1tyy/samp-dmg
 ```
 
-Include in your code and begin using the library:
+Add to your `samp.json/yaml` and begin using the filterscript:
 
-```pawn
-#include <samp-dmg>
+```yml
+filterscripts:
+- DamageSystem
 ```
 
 ## Usage

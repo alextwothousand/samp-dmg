@@ -1,0 +1,14 @@
+{
+	"user": "infin1tyy",
+	"repo": "samp-dmg",
+	"entry": "filterscripts/DamageSystem.pwn",
+	"output": "filterscripts/DamageSystem.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"YashasSamaga/I-ZCMD",
+		"maddinat0r/sscanf"
+	],
+	"runtime": {
+		"mode": "y_testing"
+	}
+}
